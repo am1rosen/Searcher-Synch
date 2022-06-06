@@ -1,0 +1,10 @@
+word "the" found. line number: 1. thread number: 1. found in: 0.0009691715240478516 seconds. written to output file in: 0.0009691715240478516 seconds
+word "beauty" found. line number: 7. thread number: 7. found in: 0.0029649734497070312 seconds. written to output file in: 0.0029649734497070312 seconds
+word "quietly" found. line number: 8. thread number: 8. found in: 0.003960132598876953 seconds. written to output file in: 0.003960132598876953 seconds
+word "history" found. line number: 10. thread number: 10. found in: 0.003960132598876953 seconds. written to output file in: 0.003960132598876953 seconds
+word "Abstraction" found. line number: 13. thread number: 13. found in: 0.004961490631103516 seconds. written to output file in: 0.004961490631103516 seconds
+word "complicated" found. line number: 15. thread number: 15. found in: 0.005956172943115234 seconds. written to output file in: 0.005956172943115234 seconds
+word "thunderous" found. line number: 17. thread number: 17. found in: 0.005956172943115234 seconds. written to output file in: 0.005956172943115234 seconds
+word "moment" found. line number: 25. thread number: 25. found in: 0.007971763610839844 seconds. written to output file in: 0.007971763610839844 seconds
+word "know" found. line number: 32. thread number: 25. found in: 0.007971763610839844 seconds. written to output file in: 0.007971763610839844 seconds
+word "purple" found. line number: 42. thread number: 25. found in: 0.007971763610839844 seconds. written to output file in: 0.007971763610839844 seconds
